@@ -1,0 +1,9 @@
+* {
+  margin: 0;  /*margin 0, serve para retirar todas as margens que tem em volta do projeto */
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
